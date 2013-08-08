@@ -21,7 +21,7 @@ Because it is likely any large collection of PDFs documents could contain a few,
 Because we are considering a collection of PDF documents commonly found in the enterprise environment (including government), we are including documents that are purely scanned images PDFs in addition to generated PDFs because
 
 # Research Related Questions
-What is the current state of the art in both the open source and proprietary space?
-Are we trying to improve schema extraction by some percentage?
-Are we trying to develop techniques that are no subject to patents?
-Would a challenge incent enough talented to people to take time 
+- What is the current state of the art in both the open source and proprietary space?
+- Are we trying to improve schema extraction by some percentage?
+- Are we trying to develop techniques that are no subject to patents?
+- Would a challenge incent enough talented to people to take time 
